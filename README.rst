@@ -39,11 +39,11 @@ Links
 
 *  Users who wish to use the RClimDex software package (see below) to calculate climate indices, and who wish to detect and adjust for artificial shifts in the daily data series to be used as input to the RClimDex (which is recommended), should read the Quick Guide to RClimDex and RHtests Users, and should also download the following: 
 
-`Quick Guide to RClimDex and RHtests Users`_
-`Quick Guide to RClimDex and RHtests Users - French version`_
-`RClimDex-RHtests data format conversion software`_
-`Software for homogenization of daily precipitation data series, Wang et al. 2010`_
-`Example for daily precipitation data`_
+* `Quick Guide to RClimDex and RHtests Users`_
+* `Quick Guide to RClimDex and RHtests Users - French version`_
+* `RClimDex-RHtests data format conversion software`_
+* `Software for homogenization of daily precipitation data series, Wang et al. 2010`_
+* `Example for daily precipitation data`_
 
 .. _Quick Guide to RClimDex and RHtests Users: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.doc
 .. _Quick Guide to RClimDex and RHtests Users - French version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.French.doc
