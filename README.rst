@@ -20,6 +20,7 @@ Links
 * `RHtestsV3 Example One Data`_
 * `RHtestsV3 Example Two Base Data`_
 * `RHtestsV3 Example Two Ref Data`_
+* `Description of the QM adjustment algorithm (Wang et al. 2010, section 5)`_
 
 .. _Wang et al. 2010, section 5: http://etccdi.pacificclimate.org/RHtest/transformTPRs.pdf
 .. _R statistical programming language: http://www.r-project.org/
@@ -30,7 +31,7 @@ Links
 .. _RHtestsV3 Example One Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example1.dat
 .. _RHtestsV3 Example Two Base Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example2.dat
 .. _RHtestsV3 Example Two Ref Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example2_Ref.dat
-
+.. Description of the QM adjustment algorithm (Wang et al. 2010, section 5): https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/transformTPRs.pdf
 
 Using RHtests
 ==============
