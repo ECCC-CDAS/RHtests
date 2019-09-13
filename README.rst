@@ -13,11 +13,24 @@ Links
 
 * `Wang et al. 2010, section 5`_
 * `R statistical programming language`_
+* `RHtestsV4 User Manual`_
+* `RHtestsV4 User Manual - French Version`_
+* `RHtests_dlyPrcp4 Code`_
+* `RHtests_dlyPrcp User Manual`_
 * `RHtestsV3 Example One Data`_
+* `RHtestsV3 Example Two Base Data`_
+* `RHtestsV3 Example Two Ref Data`_
 
 .. _Wang et al. 2010, section 5: http://etccdi.pacificclimate.org/RHtest/transformTPRs.pdf
 .. _R statistical programming language: http://www.r-project.org/
+.. _RHtestsV4 User Manual: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014.pdf
+.. _RHtestsV4 User Manual - French Version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014_French.pdf
+.. _RHtests_dlyPrcp4 Code: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_20130719.r
+.. _RHtests_dlyPrcp User Manual: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_UserManual_10Dec2014.pdf
 .. _RHtestsV3 Example One Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example1.dat
+.. _RHtestsV3 Example Two Base Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example2.dat
+.. _RHtestsV3 Example Two Ref Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example2_Ref.dat
+
 
 Using RHtests
 ==============
