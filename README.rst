@@ -20,7 +20,9 @@ Links
 * `RHtestsV3 Example One Data`_
 * `RHtestsV3 Example Two Base Data`_
 * `RHtestsV3 Example Two Ref Data`_
-* `Description of the QM adjustment algorithm (Wang et al. 2010, section 5)`_
+* `Description of QM adjustment algorithm, Wang et al. 2010, section 5`_
+* `Table of empirical percentiles of the PMT test statistic, included in the codes`_
+* `Table of empirical percentiles of the PMF test statistic, included in the codes`_
 
 .. _Wang et al. 2010, section 5: http://etccdi.pacificclimate.org/RHtest/transformTPRs.pdf
 .. _R statistical programming language: http://www.r-project.org/
@@ -31,7 +33,23 @@ Links
 .. _RHtestsV3 Example One Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example1.dat
 .. _RHtestsV3 Example Two Base Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example2.dat
 .. _RHtestsV3 Example Two Ref Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example2_Ref.dat
-.. Description of the QM adjustment algorithm (Wang et al. 2010, section 5): https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/transformTPRs.pdf
+.. _Description of QM adjustment algorithm, Wang et al. 2010, section 5: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/transformTPRs.pdf
+.. _Table of empirical percentiles of the PMT test statistic, included in the codes: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/PTmaxRed_Nmin5_6CVs.txt
+.. _Table of empirical percentiles of the PMF test statistic, included in the codes: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/PFmax31red_Nmin10_6CVs.txt
+
+*  Users who wish to use the RClimDex software package (see below) to calculate climate indices, and who wish to detect and adjust for artificial shifts in the daily data series to be used as input to the RClimDex (which is recommended), should read the Quick Guide to RClimDex and RHtests Users, and should also download the following: 
+
+`Quick Guide to RClimDex and RHtests Users`_
+`Quick Guide to RClimDex and RHtests Users - French version`_
+`RClimDex-RHtests data format conversion software`_
+`Software for homogenization of daily precipitation data series, Wang et al. 2010`_
+`Example for daily precipitation data`_
+
+.. _Quick Guide to RClimDex and RHtests Users: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.doc
+.. _Quick Guide to RClimDex and RHtests Users - French version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.French.doc
+.. _RClimDex-RHtests data format conversion software: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RClimDex_RHtest.r
+.. _Software for homogenization of daily precipitation data series, Wang et al. 2010: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp.r
+.. _Example for daily precipitation data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_ExampleData.txt
 
 Using RHtests
 ==============
