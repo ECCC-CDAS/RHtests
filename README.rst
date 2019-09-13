@@ -13,9 +13,11 @@ Links
 
 * `Wang et al. 2010, section 5`_
 * `R statistical programming language`_
+* `RHtestsV3 Example One Data`_
 
 .. _Wang et al. 2010, section 5: http://etccdi.pacificclimate.org/RHtest/transformTPRs.pdf
 .. _R statistical programming language: http://www.r-project.org/
+.. _RHtestsV3 Example One Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example1.dat
 
 Using RHtests
 ==============
