@@ -61,7 +61,7 @@ Running RHtests
 
 * Run the following command to start ::
 
-    > source('RHtestsV4_20180301.r')
+    > source('RHtestsV4_20190301.r')
 
 Issues
 ------
