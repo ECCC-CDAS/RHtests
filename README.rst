@@ -13,6 +13,7 @@ Links
 
 * `Wang et al. 2010, section 5`_
 * `R statistical programming language`_
+* `RHtestsV4 last version`_
 * `RHtestsV4 User Manual`_
 * `RHtestsV4 User Manual - French Version`_
 * `RHtests_dlyPrcp4 Code`_
@@ -26,6 +27,7 @@ Links
 
 .. _Wang et al. 2010, section 5: http://etccdi.pacificclimate.org/RHtest/transformTPRs.pdf
 .. _R statistical programming language: http://www.r-project.org/
+.. _RHtestsV4 last version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_20190301.r
 .. _RHtestsV4 User Manual: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014.pdf
 .. _RHtestsV4 User Manual - French Version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014_French.pdf
 .. _RHtests_dlyPrcp4 Code: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_20130719.r
