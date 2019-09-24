@@ -30,7 +30,7 @@ Links
 .. _RHtestsV4 last version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_20190301.r
 .. _RHtestsV4 User Manual: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014.pdf
 .. _RHtestsV4 User Manual - French Version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014_French.pdf
-.. _RHtests_dlyPrcp4 Code: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_20130719.r
+.. _RHtests_dlyPrcp4 Code: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_20160621.r
 .. _RHtests_dlyPrcp User Manual: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_UserManual_10Dec2014.pdf
 .. _RHtestsV3 Example One Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example1.dat
 .. _RHtestsV3 Example Two Base Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example2.dat
@@ -50,7 +50,7 @@ Links
 .. _Quick Guide to RClimDex and RHtests Users: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.doc
 .. _Quick Guide to RClimDex and RHtests Users - French version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.French.doc
 .. _RClimDex-RHtests data format conversion software: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RClimDex_RHtest.r
-.. _Software for homogenization of daily precipitation data series, Wang et al. 2010: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_20160621.r
+.. _Software for homogenization of daily precipitation data series, Wang et al. 2010: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp.r
 .. _Example for daily precipitation data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_ExampleData.txt
 
 Using RHtests
