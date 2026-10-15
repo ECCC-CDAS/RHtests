@@ -27,17 +27,17 @@ Links
 
 .. _Wang et al. 2010, section 5: http://etccdi.pacificclimate.org/RHtest/transformTPRs.pdf
 .. _R statistical programming language: http://www.r-project.org/
-.. _RHtestsV4 last version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_20190301.r
-.. _RHtestsV4 User Manual: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014.pdf
-.. _RHtestsV4 User Manual - French Version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014_French.pdf
-.. _RHtests_dlyPrcp4 Code: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_20160621.r
-.. _RHtests_dlyPrcp User Manual: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_UserManual_10Dec2014.pdf
-.. _RHtestsV3 Example One Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example1.dat
-.. _RHtestsV3 Example Two Base Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example2.dat
-.. _RHtestsV3 Example Two Ref Data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/Example2_Ref.dat
-.. _Description of QM adjustment algorithm, Wang et al. 2010, section 5: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/transformTPRs.pdf
-.. _Table of empirical percentiles of the PMT test statistic, included in the codes: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/PTmaxRed_Nmin5_6CVs.txt
-.. _Table of empirical percentiles of the PMF test statistic, included in the codes: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/PFmax31red_Nmin10_6CVs.txt
+.. _RHtestsV4 last version: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/RHtestsV4_20190301.r
+.. _RHtestsV4 User Manual: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014.pdf
+.. _RHtestsV4 User Manual - French Version: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/RHtestsV4_UserManual_10Dec2014_French.pdf
+.. _RHtests_dlyPrcp4 Code: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/RHtests_dlyPrcp_20160621.r
+.. _RHtests_dlyPrcp User Manual: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/RHtests_dlyPrcp_UserManual_10Dec2014.pdf
+.. _RHtestsV3 Example One Data: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/Example1.dat
+.. _RHtestsV3 Example Two Base Data: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/Example2.dat
+.. _RHtestsV3 Example Two Ref Data: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/Example2_Ref.dat
+.. _Description of QM adjustment algorithm, Wang et al. 2010, section 5: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/transformTPRs.pdf
+.. _Table of empirical percentiles of the PMT test statistic, included in the codes: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/PTmaxRed_Nmin5_6CVs.txt
+.. _Table of empirical percentiles of the PMF test statistic, included in the codes: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/PFmax31red_Nmin10_6CVs.txt
 
 *  Users who wish to use the RClimDex software package (see below) to calculate climate indices, and who wish to detect and adjust for artificial shifts in the daily data series to be used as input to the RClimDex (which is recommended), should read the Quick Guide to RClimDex and RHtests Users, and should also download the following: 
 
@@ -47,11 +47,11 @@ Links
 * `Software for homogenization of daily precipitation data series, Wang et al. 2010`_
 * `Example for daily precipitation data`_
 
-.. _Quick Guide to RClimDex and RHtests Users: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.doc
-.. _Quick Guide to RClimDex and RHtests Users - French version: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.French.doc
-.. _RClimDex-RHtests data format conversion software: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RClimDex_RHtest.r
-.. _Software for homogenization of daily precipitation data series, Wang et al. 2010: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp.r
-.. _Example for daily precipitation data: https://github.com/ECCC-CDAS/RHtests/blob/master/V4_files/RHtests_dlyPrcp_ExampleData.txt
+.. _Quick Guide to RClimDex and RHtests Users: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.doc
+.. _Quick Guide to RClimDex and RHtests Users - French version: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/QuickGuide_to_RClimDex_and_RHtests.French.doc
+.. _RClimDex-RHtests data format conversion software: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/RClimDex_RHtest.r
+.. _Software for homogenization of daily precipitation data series, Wang et al. 2010: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/RHtests_dlyPrcp.r
+.. _Example for daily precipitation data: https://github.com/ECCC-ECAR/RHtests/blob/master/V4_files/RHtests_dlyPrcp_ExampleData.txt
 
 Using RHtests
 ==============
@@ -69,12 +69,12 @@ Issues
 * Please check the `issue page`_ and check if the issue is already reported and its current status.
 * If the issue is not reported yet, please kindly submit a `new issue`_, tag the issue as bug and leave it unassigned. Please describe your issue in as much detail as possible and to include your output.
 
-.. _issue page: https://github.com/ECCC-CDAS/RHtests/issues
-.. _new issue: https://github.com/ECCC-CDAS/RHtests/issues/new
+.. _issue page: https://github.com/ECCC-ECAR/RHtests/issues
+.. _new issue: https://github.com/ECCC-ECAR/RHtests/issues/new
 
 Contact Us
 ----------
 
-* I am Rodney Chan and together with Yang Feng at `Climate Data and Analysis Section`_ of Environment and Climate Change Canada are the current maintainer of RHtests. You can contact me at rodney.chan@canada.ca or Yang at yang.feng@canada.ca
+* I am Rodney Chan and together with Yang Feng at `Extremes and Climate Applications Research Section`_ of Environment and Climate Change Canada are the current maintainer of RHtests. You can contact me at rodney.chan@ec.gc.ca or Yang at yang.feng@ec.gc.ca
 
-.. _Climate Data and Analysis Section: https://github.com/ECCC-CDAS
+.. _Extremes and Climate Applications Research Section: https://github.com/ECCC-ECAR
